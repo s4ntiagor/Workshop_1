@@ -22,4 +22,14 @@ The workshop also aimed to produce visualizations of the following queries using
 - PostgresSQL 16
 - pgAdmin 4
 
-# 
+# How to run this workshop
+
+- Make a copy of the repository with the command "git clone https://github.com/s4ntiagor/Workshop_1.git"
+- Set up a virtual environment from your terminal. You can use: "python -m venv [environment_name]"
+- Turn on your virtual environment. You can use: "[environment_name]/scripts/activate"
+- Install the necessary tools and modules in the environment. Use: "pip install -r requirements.txt".
+- Use the set up environment as kernel.
+
+# Things to consider
+- To connect to the database, you need a file named "config_db.json" with your database credentials in json format. This file should have the following credentials: "localhost" for the server address, "user" for the username, "password" for the password, and "database" for the specific database you want to access. Each key should have its corresponding credential value.
+- You should have a csv with the data explained in the Quick Data Overview session to get results very close to those shown in this repository.
