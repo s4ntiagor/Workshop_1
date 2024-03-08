@@ -1,0 +1,6 @@
+python 3.11.
+pandas.
+json.
+psycopg2.
+matplotlib.pyplot.
+seaborn.
