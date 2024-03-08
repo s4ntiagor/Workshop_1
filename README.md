@@ -16,3 +16,10 @@ The workshop also aimed to produce visualizations of the following queries using
 - Hires by year (horizontal bar chart).
 - Hires by seniority (bar chart).
 - Hires by country over years (USA, Brazil, Colombia, and Ecuador only).
+
+# Technologies Used
+- Python 3.1.1
+- PostgresSQL 16
+- pgAdmin 4
+
+# 
